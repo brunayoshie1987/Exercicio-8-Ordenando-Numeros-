@@ -1,0 +1,12 @@
+C:\repo\Exercicio 8 - Ordenando Numeros\obj\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.AssemblyInfoInputs.cache
+C:\repo\Exercicio 8 - Ordenando Numeros\obj\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.AssemblyInfo.cs
+C:\repo\Exercicio 8 - Ordenando Numeros\obj\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.csproj.CoreCompileInputs.cache
+C:\repo\Exercicio 8 - Ordenando Numeros\bin\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.exe
+C:\repo\Exercicio 8 - Ordenando Numeros\bin\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.deps.json
+C:\repo\Exercicio 8 - Ordenando Numeros\bin\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.runtimeconfig.json
+C:\repo\Exercicio 8 - Ordenando Numeros\bin\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.runtimeconfig.dev.json
+C:\repo\Exercicio 8 - Ordenando Numeros\bin\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.dll
+C:\repo\Exercicio 8 - Ordenando Numeros\bin\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.pdb
+C:\repo\Exercicio 8 - Ordenando Numeros\obj\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.dll
+C:\repo\Exercicio 8 - Ordenando Numeros\obj\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.pdb
+C:\repo\Exercicio 8 - Ordenando Numeros\obj\Debug\netcoreapp3.1\Exercicio 8 - Ordenando Numeros.genruntimeconfig.cache

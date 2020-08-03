@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 8 - Ordenando Numeros", "Exercicio 8 - Ordenando Numeros.csproj", "{EECF0351-6DD3-4E62-AA1C-203CEF46DFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECF0351-6DD3-4E62-AA1C-203CEF46DFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECF0351-6DD3-4E62-AA1C-203CEF46DFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECF0351-6DD3-4E62-AA1C-203CEF46DFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECF0351-6DD3-4E62-AA1C-203CEF46DFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3886C099-A336-4C89-B4C4-0C779659295A}
+	EndGlobalSection
+EndGlobal
